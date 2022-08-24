@@ -55,7 +55,7 @@ Upon launching the application  on jupyter lab run the file by clicking on the p
 
 ![](Resources/summary_stat.png)
 
-## Data Visualization
+## Crypto Performance in Different Time Periods
 
 ![](Resources/plot.png)
 
@@ -70,11 +70,11 @@ Upon launching the application  on jupyter lab run the file by clicking on the p
 
 Observing the plot, it seems 4 would be the optimal number for k's value because the elbow shape starts at this point.
 
-## Cluster Cryptocurrencies with K-means Using the Original Data
+## Cryptocurrencies Clustering with K-means Using the Original Data
 
 ![](Resources/scatter_kmeans.png)
 
-## Optimize Clusters with Principal Component Analysis
+## Cluster Optimization with Principal Component Analysis
 
 ![](Resources/variance.png)
 
@@ -90,13 +90,13 @@ After getting the explained_variance_ratio_ attribute, we can observe that the f
 
 Since the elbow shape is starting at point 4, this seems the optimal k value.
 
-## Cluster Cryptocurrencies with K-means Using the PCA Data
+## Cryptocurrencies Clustering with K-means Using the PCA Data
 
 ![](Resources/pca_cul_data.png)
 
 ![](Resources/pca_scatter_plot.png)
 
-## Visualize and Compare the Results
+## Results Comparison
 
 ![](Resources/elbow_com.png)
 
