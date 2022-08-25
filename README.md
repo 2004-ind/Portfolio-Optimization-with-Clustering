@@ -1,6 +1,6 @@
 # Portfolio-Optimization-with-Clustering
 
-## Creating a Diversified Profile Using Unsupervised Learning
+## Creating a Diversified Portfolio Using Unsupervised Learning
 
 This is a python enabled command line interface that aims to create a diversified investment portfolio  using unsupervised machine learning by clustering cryptocurrecies.Clustering groups of investments according to patterns in their returns provides valuable information to assemble investment portfolios.
 
